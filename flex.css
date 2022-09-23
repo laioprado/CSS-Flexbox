@@ -1,0 +1,182 @@
+p{
+    justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.block1 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.block2 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.block3 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.block4 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.block5 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.block6 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.block7 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.block8 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.main2{
+    display: flex;
+    justify-content: flex-start;
+}
+.main3{
+    display: flex;
+    justify-content: flex-end;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+}
+.main5{
+    display: flex;
+    justify-content: flex-start;
+}
+.main6{
+    display: flex;
+    justify-content: space-around;
+}
+.main7{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main8{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+.block9 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 260px;
+    display: flex;
+    justify-content: space-around;
+}
+.block10 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 140px;
+    display: flex;
+    justify-content: space-around;
+}
+.block11 {
+    background-color: rgb(0, 187, 255);
+    width: 200px;
+    height: 2000px;
+    display: flex;
+    justify-content: space-around;
+}
+.main9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100vh;
+    width: 70vw;
+}
+.main9>div {
+    font-family: sans-serif;
+    background-color: rgb(0, 187, 255);
+    height: 130px;
+    width: 210px;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main10 {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 590px;   
+}
+.main10>div {
+    background-color: rgb(0, 187, 255);
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+}
+.main11 {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.main11>div {
+    background-color: rgb(0, 187, 255);
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+}
+.main14 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.main14>div {
+    background-color: rgb(0, 187, 255);
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+}
